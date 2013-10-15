@@ -36,6 +36,5 @@ describe DockingStation do
 		expect(lambda { station.dock(bike) }).to raise_error(RuntimeError)
 	end
 
-	it ''
 
 end
